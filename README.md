@@ -1,13 +1,10 @@
 # INDUSTRY TALK 1 (POSTER)
 
-<h4></h4>
-
 <img src="https://github.com/mokjunyang/TIS-assignment-1/blob/main/assets/PETRONAS_DIGITAL_YGP.png">
 
 <h3><ins>Reflections on Industry Talk 1</ins></h3>
-<h4></h4>
-In this industry talk, I learnt about the Young Graduate Program offered by PETRONAS digital. Apart from that, I also gained invaluable knowledge on the day-to-day operations of different experts in the field. This talk provided me with a deeper understanding about the industry and the tips required to succeed.
 
+In this industry talk, I learnt about the Young Graduate Program offered by PETRONAS digital. Apart from that, I also gained invaluable knowledge on the day-to-day operations of different experts in the field. This talk provided me with a deeper understanding about the industry and the tips required to succeed.
 
 The first speaker, Ms. Bernadene explained that YGP is a program that aims to foster new talents coming into the digital field. She explained that it is a 18-24 months long program that provides fresh graduates with on-the-job learning experiences, with guidance from industry professionals. Outstanding talents of YGP are given permanent employment if they performed well during the duration of the program.
 
